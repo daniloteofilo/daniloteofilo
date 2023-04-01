@@ -23,6 +23,7 @@
   <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
  <br>
+ 
   ### Para mais informações você pode me encontrar nas redes sociais!
  
 <div> 
